@@ -1,3 +1,6 @@
+# Creative natural language generation project based on GPT-2 language model https://github.com/openai/gpt-2
+
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # gpt-2
