@@ -8,8 +8,12 @@ import tensorflow as tf
 
 import model, sample, encoder
 
-
-raw_text= 'What was missing seemed irretrievable.'
+f = open("model_text.txt", "r")
+if f.mode == "r":
+    raw_text = f.read()
+else:
+    raw_text = 'No model text'
+print('Model:', raw_text)
 
 def interact_model(
     model_name='774M',
