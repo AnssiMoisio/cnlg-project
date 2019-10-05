@@ -1,1 +1,14 @@
-Creativity can be evaluated using the tripod model.
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+
+Thoughts after the lecture: 

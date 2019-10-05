@@ -5,7 +5,7 @@ import json
 import os
 import numpy as np
 import tensorflow as tf
-
+import string
 import model, sample, encoder
 
 f = open("model_text.txt", "r")
@@ -14,11 +14,12 @@ if f.mode == "r":
 else:
     raw_text = 'No model text'
 print('Model:', raw_text)
+print('\n---------------------\n')
 
 def interact_model(
     model_name='774M',
     seed=None,
-    nsamples=1,
+    nsamples=5,
     batch_size=1,
     length=None,
     temperature=1,
