@@ -1,0 +1,56 @@
+======================================== SAMPLE 1 ========================================
+
+The first three stages of the STANDARDized PROCESS are as follow:
+
+Explaining the nature of what it means for a system to be creative, Identifying criteria for evaluating a particular computational creativity system for creativity, Identifying criteria for assessing a particular computational creativity system for evaluation based on criteria.
+
+This is a complex matter with several facets to the problem. While the first stage of STANDARDization focuses on definitions and criteria for evaluation, the second stage of SPECS is focused on testing. As SPECS is a four-stage process, the test can be split into several stages.
+
+
+Week 3:
+
+In addition to the three steps of STANDARDization, we would like a framework which would allow the creation and deployment of more than three creative systems. To help solve this problem, and to aid our understanding of creativity, we sketch a framework for prototyping and deployment of creative systems. This is a rough outline of what a sketch of the basic problem might include:
+
+
+a) A sketching interface for the artist and his/her collaborators to communicate and share ideas and information
+
+b) A tool capable of generating artwork
+
+c) A system capable of generating work in a variety of genres
+
+d) A system capable of generating work in any media
+
+e) Some way of documenting a creation or process in a digital format
+
+f) Some system that integrates these features together with a workflow for visualisation and storage
+
+The sketch is intended to be an illustration of a system, and is a tool with potential use by artists when creating a visual recording of the creation process.
+
+The sketch is meant to be a tool, meant to give the artists an opportunity to express their creative process. When you consider the scope of this project it is obvious that one tool for the whole creative process would not be enough - we require the system to be capable of providing the art necessary to create our vision, to be able to provide context and reference for our creative process, and even possibly to be able to record work for future reference. Our sketching system serves as a framework with which to build the artistic tool to achieve this end, and as a basis for a potential application for the sketch itself.
+
+
+Week 4:
+
+The four-step process of STANDARDization is extended to the art of designing, in a similar manner to the sketch process. This sketching system would allow the artist to produce a digital rendition of a creation or process, and store this work in
+======================================== SAMPLE 2 ========================================
+
+While these papers are not directly applicable to creativity evaluation in general, they do shed light on the problems that might confront research systems that generate creative artefacts. For example, there is no evidence whatsoever of an effective algorithm to compare the capabilities of humans and computers in creating poetry, except where it is useful. We also found no discussion of how computer creative work might differ from human creative systems, even though the systems share a number of features.
+
+Note that while the paper proposes a SPECS test, the results presented are not relevant to the SPECS test as such. It does not prove that the SPECS tests are adequate measures of creativity (in fact, they are not even adequate measures to evaluate creativity by themselves).
+
+In particular, the paper shows that many different aspects of computer creative work fall outside of the criteria of the SPECS procedure, such as system complexity that seems to have little or no relation to the complexity of the system itself.
+
+Conclusions
+
+A very powerful framework for creativity evaluation has not been developed in this area and we offer a collection of key components that we believe are useful for assessing computer creative work.
+
+The SPECS framework is a useful tool to test creativity. It is possible to build a SPECS test and to apply it to computer and human creative work.
+
+There is no discussion of the relevance or relevance to the specification of a SPECS test. This leaves the reader in the uncomfortable position of having to decide, by hand, if the problem is an intrinsic part of the system which cannot easily be isolated.
+
+As mentioned in the Introduction, we believe that in this area of research, the definition of creativity is far more important than a test for creativity.<|endoftext|>By: Ryan Demey
+
+The Denver Broncos have a lot on their roster. Their roster is made up of starters, veterans, and young players who are waiting on a new home to begin a new era under new offensive coordinators Todd Haley and Mike McCoy. The Denver Broncos, on paper, look to be one of the most successful organizations in the NFL. Not long ago, the Denver Broncos were a trendy pick in every draft, hoping that their talent and depth would pay off in a huge playoff win for their franchise.
+
+In 2015, Denver Broncos were the top ranked team in total offense, passing, and scoring and they are expected to continue that trend. However, the Denver Broncos have a lot of questions at a lot of positions on the field. For starters, the Denver Broncos are facing
+================================================================================

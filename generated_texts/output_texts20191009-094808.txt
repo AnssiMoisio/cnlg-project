@@ -1,0 +1,60 @@
+
+
+======================================== SAMPLE 1 ========================================
+Creative systems are not easily found in the research literature. In an era where creative research is under increased pressure to prove theories, this may be an issue. However, I have already offered a systematic methodology. Creative systems are not easy, but there are people who are able to produce more complex artefacts using only computational resources than human artists. At the same time, the literature is littered with examples that are either impossible to demonstrate by means of computational creativity, (i.e.,"determinism"), or else have minimal impact on the scientific or social debate. I think one of the best ways to explore the potential of computer scientists trying to prove computational creativity for themselves is to explore the use of computational creativity as an empirical tool in the creative process.
+
+Discussion and Suggestions:
+
+1.
+
+It seems that the current controversy regarding creativity is driven by a lack of attention to the fact that the quality of creative output, not to mention the quantity of creative output, may often be directly related to the quantity of artistic output, to that quantity being variable. Indeed, in an era where computer science is a relatively scarce commodity, these observations indicate the potential that we will one day be able to do better with artistic output. We might think up better algorithms, better algorithms are going to be developed, new software will be developed, or new software will be tested and validated.
+
+What seems to be lacking, I think, in this debate is insight into computational creativity and its potential to contribute to creative output. As with any aspect of creativity, in the absence of rigorous study of the topic, it is hard to draw any firm conclusions about exactly which aspects of creativity constitute good or bad (see, e.g., the work of the Creative Processes team of which I am associated). At the same time, as it does not appear that any current academic papers are doing in such a way as to give us any clear insight into which aspects of creativity are most effective, it is hard to find any solid evidence about whether it is best to be more creative or be more creative.
+
+In short, we don't know if the following are best for us to be more artistic: Creative systems which are more creative with respect to their capacity to generate art
+
+More creative systems
+
+More creative systems
+
+More imaginative computers
+
+More imaginative computers
+
+More artistic computers
+
+More creative computers
+
+
+We do not know which aspects of creativity are most effective, and even if we could ascertain which aspects are most
+
+======================================== SAMPLE 2 ======================================== The first three steps in the SPECS process are defined in relation to the standard definition of creativity (artificial or human). In this case, it is necessary to distinguish between creative systems that improvise on musical data and creative systems that are created by computer, as shown in Figure 1 . There is also a third category of creative systems that are a hybrid of both types.
+
+
+Week 3:
+
+I would like to introduce four questions from an introductory computational creativity course at the University of Southern California, one of which relates to the subject of "saying what it means".
+
+
+"In one word, how would you define being computer creative?" "What would your definition of the term computer creative be?"
+
+
+In one word, how would you define being human creative?" "What would your definition of the term human creative be?"
+
+I like to keep things brief, so let me summarize the main points:
+
+1. Computers don't mind a simple term, even a simple one. Computers love simplicity, so say what it is for them.
+
+2. Computers love simple, clear explanations. They tend to believe that something which is just so is just so.
+
+3. Computers have a high level of imagination (i.e., they are very good at imagining the best possible possibilities) but not a high level of detail. I.e., they are better at describing details than they are describing the obvious. Because of their lack of detail, computers tend to describe things in general terms, but are rarely able to describe a specific problem or phenomenon.
+
+4. Computers are generally lazy. They tend to work very diligently but don't care very much. They tend to work all day, but rarely come home and enjoy the night.
+
+Since computers are good at creating art, they tend to be good at making music. They tend to prefer simple ideas, such as melodies, verses, songs, and words. I.e., they tend to prefer the simplest and simplest-sounding system which doesn't have very many rules because it's so simple. This may create the illusion that computing is easy.
+
+Here is a sample of a list of software programs.
+
+
+The most basic of the programs is the simplest, called "paint." It starts with a grid of paint colors, colors drawn in a circle from 1 to the size of the paint. When two people are in the paint circle, the paint is red from the top down and green from
+================================================================================

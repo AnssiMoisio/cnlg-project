@@ -1,0 +1,41 @@
+
+
+======================================== SAMPLE 1 ========================================
+
+
+The author's use of the word "reciprocity" to refer to a relationship between the creators (software makers) and the users is revealing, and it is very consistent with the use of other terms to refer to reciprocity.
+
+Week 3:
+
+Creativity evaluation: A new standard for evaluation of complex systems is proposed based on the analysis of creativity. This paper describes a novel methodology, which assesses creative systems using a three-step process: defining what it means for a specific computational process to be creative; deriving various tests utilizing this definition; and then executing and comparing these tests in evaluation. This new methodology presents a standard to evaluate what is appropriate to a creative computer program and enables comparison of a variety of approaches.
+
+Thoughts after the lecture: 
+I really like this paper that uses the term creative to describe software creation. This makes the distinction between creativity and creativity creation much clearer to me, as there seems to be a large gap between the two, and this paper puts this gap in sharper relief when it is used in a comparative context, rather than simply describing a computational process or creative method.
+
+
+Week 4:
+
+Creative systems: A new methodology is proposed for evaluating creative systems to discover a specific criteria for creativity. The paper presents two key components of creativity, which the author defines as "characterization (as opposed to invention) of processes, processes for a specific end". These are: characterization, the process for "describing, summarizing and analyzing what occurs in a complex process" and invention, the process for "creating a new form or organization of a complex system". The paper suggests a process approach which compares the two components in terms of the following criteria:
+
+(Characterization) what is characteristic about the creative process (i.e. what is unique to it), [and] what is characteristic of the creative object(s) being described
+
+(Invention) how is the original or newly created creative object(s) described? If the question is about a new creative object (e.g. a new recipe), can we identify and evaluate the invention of that new creative object?
+
+Thoughts after the lecture: 
+The criteria I would use if evaluating the creative system would be based on whether the system is able to use both characterization and invention. I don't think there is an advantage in choosing an invention criterion first. I see this criterion more as the foundation of how I would evaluate a creative system: that is
+
+======================================== SAMPLE 2 ========================================
+
+
+SPECS is just one part of a larger research project we are conducting on this course. We are in the process of setting up a research project in computational creativity specifically around the concept of computation-creative. The goal of this project is to explore how to assess creativity using the concepts of appreciation, skill and imagination. We are building a prototype of a standardized approach using computational creativity that we are calling a creativity test. To aid in evaluating the creativity of computational creativity systems, a tool was developed that uses the test to identify the creative characteristics that are most easily attributed to one system or the other. Using this tool, we have demonstrated the usefulness of this approach and also provide a practical way to evaluate complex algorithms and programs. This project will culminate a discussion of the value of this approach in evaluating creativity across multiple domains.
+
+
+Week 3:
+
+The idea of using a creative system as an evaluation strategy is to define a methodology that will facilitate evaluation of a creative system. As one can deduce from the first lecture, no method could be established for evaluating any creative system, because no way had been figured out to specify what it meant to be creative. Therefore, evaluation criteria would have to be developed within the framework of the existing creativity criteria. Thus, if we were to determine the criteria for creativity, they should be based upon the standards of the existing creativity criteria. This project is a re-examination of the old creativity criteria, with our current design in mind.
+
+
+Thoughts after the lecture: To begin to see how these standards interact with one another, we begin by briefly reviewing two of their tenets: the need for both the criteria themselves (defined below) and the criteria themselves (defined below) to be valid in all domains of creativity (defined earlier) to be valid in all creative systems (defined earlier). The two systems are then explored and evaluated.
+
+There are three main criteria: the criteria of creative output, the criteria of creative content, and the criteria of creative purpose. The criteria of creativity output are simply a measure of what we consider to be the amount of creative content a creative system produces; the criteria of creative content (defined earlier) are simply measures of what we consider to be the amount of creative creation in that creative system. The criteria of creativity purpose are simply a measure of how important a task is. To a layman, the criteria of creative purpose seem similar across the board with many overlapping but not necessarily mutually exclusive criteria; however, it is important to note that the criterion of creative
+================================================================================
