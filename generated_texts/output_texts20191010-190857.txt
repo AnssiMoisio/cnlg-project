@@ -1,0 +1,55 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+A critical factor in assessing creativity is whether or not it is related to the human or computational nature of the system. When it comes to software, it is important to differentiate between the computational and the human aspect. Computational creativity systems are very useful for creating art, but their value is also often overlooked in research discussions, which often assume the computational nature of creativity. My paper suggests that the computational style for creating art should be recognized as an important part of the process, as it is necessary for the artistic production of music.
+
+Week 3:
+
+Abstract Creativity is closely related to the ability of organisms to make predictions about the future. It has been suggested that creativity is a state of mind, a state of being. While I do not believe that creativity is a state of mind, I do believe that it is closely related to the ability to take in new information. To illustrate this point, I review one of three well-documented cases with respect to mathematical creativity. The system producing the music was a computer and did not produce art; in contrast, the system producing the word "bouillabaisse" was a human and was able to produce art with the help of a word play (for example) and a novel interpretation of the text.
+
+Thoughts after the lecture:
+
+A critical component of evaluating creativity is whether or not the art being produced meets the criteria for being creative. The art was produced with some form of human intervention; this means that there needs to be some indication as to whether or not we are indeed seeing something new or an improvement. I believe the art was created by someone who is capable of creating something new. It was also produced by a person who had access to a computer. My hypothesis is that a program that is capable of producing abstract thought cannot be considered creativity if it is also creative in the creative sense.
+
+Week 4 :
+
+Abstract Computational creativity is a flourishing scientific and engineering research area. Much of the literature in this area is limited to case studies on how the output of the algorithm created by a software system can be viewed as creative. This paper proposes an alternative approach to thinking about creativity in the context of an actual algorithm. The paper presents three questions that help evaluate the applicability of a system to the way the system produces outputs; questions that may also help to evaluate other processes whose output may be considered creative.
+
+In general, creativity is not an abstract property of the entity generating creativity. In this paper, we present a formalistic framework
+
+======================================== SAMPLE 2 ========================================
+
+On the basis of the SPECS methodology I propose a four step process of evaluation:
+
+Exploring the computational system's outputs. Evaluating the output of a creative system. Assessing the performance of a creative system.
+
+Exploring the computational system's outputs is a major goal. In recent years, it has been evident a lot of effort is being expended on creating and improving computational systems, and this should be a focus area. It must be emphasized that creativity is a continuum and therefore not so binary. Some systems might achieve the first set goals, while other examples could come in with different goals. To this end, this paper proposes to define a single criterion for creativity that can be applied across creativity systems. However, while the methodology for doing so is simple, the resulting evaluation of Creative Systems becomes more complicated when we take into account creativity of the different components. If we cannot determine how a particular type of system produces a creative product, then we cannot analyze it.
+
+
+Week 3:
+
+I have previously written about the issue of human-driven creative systems that are driven by algorithms, or by external, human-driven software. In this paper I will write about the different types of creative systems which are, respectively, driven by algorithms and software, and the different forms and kinds that these are taking in the current research community.
+
+What is a Creativity System?
+
+It is common for a person to be a designer of something, but it is difficult to define what exactly it means to be a "creative" designer. We use the terms "designer," "artist," "artist", and "artiste" interchangeably. Most design students are in fact artists before they start their college degree, or perhaps in high school. We generally use the phrase "creative" to say what one does creatively, not to say how one produces something. However, the way the two are used sometimes makes them appear to be distinct entities. An artist who does not use her or his hands to create beautiful art. A scientist who produces scientific results. A program that compiles algorithms written by humans. In our current research, "creative," "software," "artificial intelligent," and "programming" are often used interchangeably to describe different design systems, and this confusion of terms does not help us to understand the true nature of these different classes of design systems. However, to our knowledge, very little work has been done in this area.
+
+Artistic "creativity" typically can
+
+================================================================================

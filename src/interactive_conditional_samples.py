@@ -12,15 +12,16 @@ import time
 def interact_model(
     model_name='774M',
     seed=None,
-    nsamples=2,
+    nsamples=1,
     batch_size=1,
     length=None,
     temperature=1,
     top_k=40,
     top_p=1,
-    models_dir=os.path.join('.','..','models'),
-    model_text=os.path.join('.','..','model_text.txt'),
-    output_dir=os.path.join('.','..','generated_texts'),
+    # script needs to be run from project root folder (not src)
+    models_dir=os.path.join('.','models'), 
+    model_text=os.path.join('.','model_text.txt'),
+    output_dir=os.path.join('.','generated_texts'),
 ):
     """
     Interactively run the model
@@ -42,10 +43,11 @@ def interact_model(
      :models_dir : path to parent folder containing model subfolders
      (i.e. contains the <model_name> folder)
     """
+    models_dir = os.path.expanduser(os.path.expandvars(models_dir))
+
     with open(model_text, "r") as f:
         raw_text = f.read()
 
-    models_dir = os.path.expanduser(os.path.expandvars(models_dir))
     if batch_size is None:
         batch_size = 1
     assert nsamples % batch_size == 0
@@ -77,10 +79,8 @@ def interact_model(
 
         context_tokens = enc.encode(raw_text)
         generated = 0
-        texts = ""
-
-        print("=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n", "=" * 80)
-
+        texts = "=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n" + "=" * 80 # model text (input text)
+        print(texts)
         for _ in range(nsamples // batch_size):
             out = sess.run(output, feed_dict={
                 context: [context_tokens for _ in range(batch_size)]
@@ -90,16 +90,14 @@ def interact_model(
                 text = enc.decode(out[i])
                 new_text = "=" * 40 + " SAMPLE " + str(generated) + " " + "=" * 40 + "\n" + text + "\n\n"
                 print(new_text)
-                texts = texts + new_text
+                texts += new_text
         print("=" * 80)
-        texts = texts + "=" * 80
+        texts += "=" * 80
 
-        timestr = time.strftime("%Y%m%d-%H%M%S")
+        timestr = time.strftime("%Y%m%d-%H%M%S") # time stamp to file name
         file_name = "output_texts" + timestr + ".txt"
-
         with open(os.path.join(output_dir, file_name), "w") as f:
             f.write(texts)
 
 if __name__ == '__main__':
     fire.Fire(interact_model)
-

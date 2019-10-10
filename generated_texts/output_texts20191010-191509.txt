@@ -1,0 +1,35 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+In terms of creativity evaluation, though there are no consensus in the literature on the definition that counts as creative, several definitions of 'creativity' and 'creativity evaluation' seem close and converging. We have found that for creativity, a set of concepts is likely to be closest to the goal of evaluation of the creator of the system. In any case, though there are no universal standards for the creativity evaluation of an automated system, the methodology I propose with the aim of clarifying the creative process for use in teaching is a useful first step, and may help clarify any confusion of different terminology, and perhaps help standardize such evaluation procedures for teaching systems.
+
+
+Week 3:
+
+In light of the above discussion, here we review a number of new innovations in creativity. Most of these innovations have been presented and tested in systems, and some are in development as applied to human creativity. Some innovations are in areas where the research is already underway or has been applied. In other areas, such as natural language processing and software, these breakthroughs have been discussed by different groups of researchers over the past decade, and many new papers are being written and presented in this area. In fact, some of the innovations discussed within the past several years are very different from previous models. By exploring the current situation in the field as well as the challenges and opportunities it presents, this paper offers a starting point for future research. We will focus on current trends in the creative-assessment research.
+
+
+We begin with the importance of the system in producing artefacts, and then examine how they do so, focusing on the most interesting systems. We then apply the innovation model we have developed in the past to a new problem domain: language learning and artificial intelligence.
+
+
+Week 4:
+
+The nature of creative tasks is changing. They now vary across domains, such as creativity in the work of authors or creative problem solving. This is partly due to the increasing interest in self-organizing systems, the development of self-learning algorithms that outperform conventional human-class learning, and the proliferation of new kinds of computational and cognitive systems. However, one of the key elements in the emergence of new creativity tasks has been the emergence of computer-assisted creativity task. This approach is now recognized as being an optimal way of creating novel creative programs. Although the use of software programs in tasks for which humans perform a majority of the work is still a relatively newly developed area, this technique has been used to create a number of novel creative systems in
+
+================================================================================

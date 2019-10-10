@@ -1,0 +1,30 @@
+======================================== SAMPLE 1 ========================================
+
+As the paper opens, I immediately knew that I was looking to explore the definition of creativity at a high level, and this was no exception. There were a few things I was not ready to explore. I had yet to evaluate the creativity of the system in question, for instance, nor I wanted to determine the relationship among these variables to assess the creativity of that system. As I became more comfortable with the SPECS framework, I started to explore my own definition of creativity and its relationship to the three-step process.
+
+This first set of points and the subsequent discussion of them (the process of testing for creativity in computers, computer creativity, and computer creativity tools) are the first I was able to address on the paper. The discussion began with what it means for a computer to be creative; to do so in my system, I had to first define how a program is creativity. While writing this initial entry, I found myself becoming comfortable with the SPECS framework in terms of how creativity in the computer is measured; it turned out that this first set of points and the subsequent discussion of them (the process of testing for creativity in computers, computer creativity, and computer creativity tools) are the first I was able to address on the paper.
+
+The discussion was mostly about testable statements in the SPECS framework for assessing creative capabilities in computer systems. Here is a summary of the statements included in the process:
+
+The process of testing for creativity in computer systems must determine what it means for a programming language, software process, application, or product to be creative. The process should be an iterative evaluation of a language, process, application, or product that generates the statements in the SPECS list. There is no definitive criterion that the statement represents creativity. In particular, there are no criteria that a statement must necessarily be creativity-producing. A statement that is not creative may be, for example, "a computer program program", "the application is designed to allow the user to add a song to the system automatically to select the tune for the next song", or "a synthesizer synthesized a melody from one of the songs the program sings." It is not surprising that statements that are not creativity-producing may not be creative by the criteria described above. A computer may be designed to generate arbitrary musical compositions but does not necessarily have to produce those compositions in accordance to the statements of the SPECS list. To be creative in a computing system, the program must perform the functions required to generate the creative statements.
+
+
+======================================== SAMPLE 2 ========================================
+
+Here and in the companion paper, we have identified the crucial components of a creative system, which together form a whole of creativity. Using a detailed description of a computer system which is improvising music and a list of key components, we argue that if the computer is being creative, it creates music, and if it is not, it improvises, i.e. produces an art form—and the artistic activity of the computer has become an important domain of research for art-in-the-making. It will be up to researchers and educators to bring these ideas to bear on the design and implementation of systems that can generate art and other creative activities.
+
+
+Week 3:
+
+In the next week, we discuss the use of an artistic system, The Bowerbird, that allows for the creation of musical notation out of computer code. In this paper we show how this system can aid research in the discovery of creative behaviours—a crucial area in which the creativity-computer interaction is expected to play an active role. We then offer a new insight into how the system performs. We also consider an alternative notation system, The Dichterbee, to explore how this system might be used to express musical ideas and perform musical performances. In short, by examining the Bowerbird system which allows for the creation of music, we hope to contribute towards a more sophisticated understanding of how artistic systems function.
+
+
+Week 4:
+
+In this final week, we address the computational use of music in computing. We identify four areas of research where the performance of musical notation in computing systems is already being explored with applications in robotics, bio-informatics, artificial intelligence, gaming. These four areas represent the four fundamental areas of research where computer processing of music is being pursued. These areas will be discussed in a context of the work of Daniel Rosenfeld and John C. Coates. We then introduce a new mathematical framework for evaluating compositional creativity that includes a test procedure that is based upon a comparison between the compositions that have been coded in the system and the ones that have not. A new approach to generating music is introduced with the use of a newly described system which allows the generation of musical notation in the digital domain, while also being capable of encoding musical information. Through this new approach, the new framework can be used to support both research into the algorithmic architecture and the development of novel music systems.
+
+Thoughts after the lecture:
+
+We conclude with discussion of the potential to address two fundamental research issues: one
+
+================================================================================

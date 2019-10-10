@@ -1,0 +1,30 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+This lecture was one of the most interesting lectures I have had at the UW since becoming a professor 20 years ago. It helped me realize the immense complexity of the creative community and the number of people who are passionate about this topic. I've found myself coming up with a lot of my own ideas based on discussions with my students. We are all so passionate about it. We want students to be creative and interested in this topic, but we also want them to learn about our own research. In this case analysis of creativity has been key to my students' learning. I can easily see them asking me, "What am I supposed to tell them?" "How should I frame this for them?" "What are my best examples of creativity?" "How do I prove that this program is not just a computer program?" etc. The only way to answer these questions will be through a comprehensive analysis and a clear and concise description of the SPECS process. This paper has inspired me to start an open discussion on what can be taught in this area and who can teach it. I think that we might learn a lot from other students.
+
+Advertisements<|endoftext|>TAMPA, Fla. --- The National Health and Medical Research Council (NHMRC) today announced that four of the top five countries worldwide to get Alzheimer's disease—Australia, New Zealand, United Kingdom, and the Netherlands—reached the highest priority status of development for prevention, diagnosis, and treatment of dementia. This is the first time that the United States and the Netherlands have reached this milestone.
+
+"This landmark finding demonstrates that both countries continue to make significant progress despite the significant challenges they face in treating Alzheimer's Disease and delaying progression," said H. Michael Shanks, M.D., professor emeritus, department of medicine, University of Melbourne School of Medicine and Toxicology. "Our study also documents the significant progress we have made at improving treatments for this devastating disease."
+
+The four countries achieved this milestone through NHMRC investment as part of the national Alzheimer's Disease Strategy in the U.S. and in the Netherlands. The strategies focus on research funding and implementation of dementia prevention programs, prevention programs to reduce the number of years of life lost to dementia, and education programs to reduce caregiving burden. The strategies are being pursued through several major sources of funding, including public and private grants, collaborative ventures, private industry, and international funds.
+
+These results underscore the need for further investments at the National Institutes of Health, the National Institute on Aging, and
+
+================================================================================
