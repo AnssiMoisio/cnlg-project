@@ -8,12 +8,44 @@ import tensorflow as tf
 import string
 import model, sample, encoder
 import time
-import aesthetics
+import tensorflow_hub as hub
+module_url = "https://tfhub.dev/google/universal-sentence-encoder/2" #@param ["https://tfhub.dev/google/universal-sentence-encoder/2", "https://tfhub.dev/google/universal-sentence-encoder-large/3"]
+
+graph = tf.Graph()
+
+def create_embed(texts):
+    """
+    embeddings for each text
+    """
+    with tf.Session(graph = graph) as session:
+        embed = hub.Module(module_url)
+        session.run([tf.global_variables_initializer(), tf.tables_initializer()])
+        text_embeddings = session.run(embed(texts))
+
+    return text_embeddings
+
+def similarity(v1, v2):
+    """
+    similarity between two vector embeddings
+    """
+    return np.inner(v1, v2)
+
+def select_best_learning_diary(aesthetic_values):
+    """
+    select the best learning diary based on aesthetic values
+    """
+    linear_combination = np.zeros((len(aesthetic_values[0])))
+    for array in aesthetic_values:
+        for i in range(len( array)):
+            linear_combination[i] += array[i]
+
+    return np.argmax(linear_combination)
+
 
 def interact_model(
-    model_name='124M',
+    model_name='774M',
     seed=None,
-    nsamples=1,
+    nsamples=5,
     batch_size=1,
     length=None,
     temperature=1,
@@ -21,11 +53,12 @@ def interact_model(
     top_p=1,
     # script needs to be run from project root folder (not src)
     models_dir=os.path.join('.','models'), 
-    model_text=os.path.join('.','model_text_2.txt'),
-    output_dir=os.path.join('.','generated_texts_print'),
+    model_text=os.path.join('.','model_text.txt'),
+    learning_diary_file=os.path.join('.','learning_diary_words.txt'),
+    output_dir=os.path.join('.','generated_texts'),
 ):
     """
-    Interactively run the model
+    Run the model
     :model_name=124M : String, which model to use
     :seed=None : Integer seed for random number generators, fix seed to reproduce
      results
@@ -63,7 +96,9 @@ def interact_model(
     elif length > hparams.n_ctx:
         raise ValueError("Can't get samples longer than window size: %s" % hparams.n_ctx)
 
-    with tf.Session(graph=tf.Graph()) as sess:
+    
+    with tf.Session(graph = graph) as sess:
+        
         context = tf.placeholder(tf.int32, [batch_size, None])
         np.random.seed(seed)
         tf.set_random_seed(seed)
@@ -97,19 +132,36 @@ def interact_model(
         print("=" * 80)
         texts_print += "=" * 80
 
+        ## save generated learning diaries to file
         timestr = time.strftime("%Y%m%d-%H%M%S") # time stamp to file name
         file_name = "output_texts_print" + timestr + ".txt"
         with open(os.path.join(output_dir, file_name), "w") as f:
             f.write(texts_print)
 
-        
-        # similarity to model text
-        embeds = aesthetics.embed(texts)
-        model_embed = aesthetics.embed(raw_text)
-        sims_to_model = []
-        for vec in embeds:
-            sims_to_model.append(aesthetics.similarity(model_embed, vec))
+        # sentence embeddings for the texts
+        text_embeddings = create_embed(texts)
+        model_embed = create_embed([raw_text])
 
+        # similarity to model text
+        sims_to_model = []
+        for vec in text_embeddings:
+            sims_to_model.append(similarity(model_embed[0], vec))
+
+        # similarity to a learning diary example
+        with open(learning_diary_file, "r") as f:
+            learning_diary_words = f.read()
+        ld_embed = create_embed([learning_diary_words])
+        sims_to_ld = []
+        for vec in text_embeddings:
+            sims_to_ld.append(similarity(vec, ld_embed[0]))
+
+        # print(sims_to_model)
+        # print(sims_to_ld)
+        # print(similarity(model_embed[0], ld_embed))
+
+        aesthetic_values = [sims_to_model, sims_to_ld]
+        print("The best diary is sample number", 1+select_best_learning_diary(aesthetic_values))
+        print("Aesthetic values:\n", aesthetic_values)
 
 
 if __name__ == '__main__':

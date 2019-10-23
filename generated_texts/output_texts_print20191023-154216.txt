@@ -1,0 +1,43 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+In this article in the paper we discuss the notion of 'creativity evaluator' because in general we do not want to call ourselves "creative" because there is no way to define them (and I see the "creativity evaluator" as an extremely hard term that is sometimes used to label individuals with "creative problems with the kind of thought process that can arise from creativity." This definition suggests there is no single definition defining creativity that can be considered creatively, but rather there is a common convention that the categories of the definition are not sufficient for definition (the first term used by this paper to make this point was "creative problem" or "creative-problem"). The term "creative" has been used when talking about a problem (e.g., the question of the appropriateness of artworks) but it does not define the concept of what that problem should be.
+
+This paper argues for a simple system-level method of making claims about how specific kinds of creative systems can be considered creatively. To test this and develop a common and well-established definition of "creative", we need a rigorous mathematical framework; indeed, to do so, a framework is required. However, this approach is problematic when interpreting this paper in terms of individual cases as well as the general principles underlying its results. The framework is also inadequate when interpreting these results as well: for for a number of reasons, the method does not always produce satisfactory results for people who are used to seeing the formal concepts of creative process in terms of concrete or conceptual constructions.
+
+
+Week 3:
+
+While we have already discussed how to apply the idea of creative evaluation to the real world, this paper proposes the following further process to investigate a concept called "gene recognition", a term that might be understood as a way of describing an individual's interest and interest in the same, but distinct, field, such as anthropology, in their recognition of specific behaviours and behaviours with a particular purpose. The first step of the process is to identify where this interest and interest will be defined in the future, and where it is not. These goals will be tested by testing the general form of the "gene recognition" in both computational and natural philosophy projects.
+
+Since this paper is aimed at the recognition of specific 'gene' behaviours and behaviours such as behaviour-based thinking (and this process, I think, is often called "gathering", "gathering together" or "sharing among ourselves") and the notion
+
+======================================== SAMPLE 2 ========================================
+
+In my initial discussion, both the human and the computational are considered the most important creative systems. The human is a complex system which has many complex components, including: a computer, a computer-based application computer (a "workstation," or a "working computer," to use the term) and a database of personal data. The computer-based application system includes a database of personal data and an application framework for writing software which identifies those components and describes the functions they can perform to process them. The database also describes the specific capabilities of the software the system supports to help support the software, and the individual functions of the system it supports. The application framework then includes the data it supports for providing information about that aspect of the system such as the capabilities it supports. The system's own data is a critical component because it provides information which is necessary for the success of the system in developing the software being built. An interactive experience of the software it is building which does not need to be structured such that some features are enabled, a system can develop applications and applications which have high success rate (EPS scores), and are therefore easily available to people.
+
+Thoughts after the lecture:
+
+In this section we explore and demonstrate that the more information that comes about that a system develops as part of its construction process the better the likelihood that that system will provide the most benefit to human life, while still providing the most value.
+
+When the computer, computer, consumer is constructed and then analyzed by humans who will be performing similar tasks. It thus has both a human and a computer-based interface and, as we see, it has a powerful computational ability both which means that the system's interface can benefit human lives. We propose a method to determine the utility of a system's computer-based interface, the approach that, given a standard definition, is considered the most optimal to meet a particular use case for a system. As an alternative, we propose that this approach should be considered only based on the computational power gained from producing software which will also be useful in achieving the system's goal. In a nutshell, the best approach is using the computational power gained by the system to implement the system in the application framework.
+
+While the computational power of a system has long been a problem for computer scientists, in the current context this problem is relatively simple: how will the computer, computer, or computer-based interface provide the most benefit to human life? One idea has emerged that I personally propose to use computer-based tools (
+
+================================================================================

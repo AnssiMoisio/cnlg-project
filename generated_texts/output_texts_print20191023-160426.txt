@@ -1,0 +1,58 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+On this lecture we discussed the creative tripod that is composed of three requirements of creativity and three parties that can have these properties: appreciation, skill, creativity and network effects. The point of this lecture is to show how these attributes of creativity and networks interact and interact. A common misconception regarding a computer system that is used as an example is the concept that it is not "artificial". This is a misperception that is not borne out by any evidence in the field of data analysis. Instead, the research community has recently used research as a guide in how computers are conceived in the context of software development and the Internet as a medium for collaborative data. In this paper, we discuss a recent paper by T. R. Vickers (University of Pennsylvania) that explores how human cognitive systems interact with different kinds of data with the help of network effects. As a result, researchers have started to draw new distinctions in the literature between human and computer systems, such that these two systems are seen as complementary in being able to collaborate with each other. We propose that there may be some form and function of the network effect that are both different from the cognitive effect provided by a human-level cognitive system. This new framework is well established that distinguishes human versus algorithm-driven creativity systems, and it should be applied to both, not only humans: as there are differences between the two in the ability of human algorithms to produce novel results (see section below); and from the way in which humans and computers use the information in a computer to infer what is going on, including how much time is spent in making predictions based on the prediction. As a consequence, the human and algorithm systems represent an important alternative to each other in many ways that are not just common and general, but specific to a wide range of fields.
+
+Although these four-step processes are not necessarily associated with each other, at least one of them may be important. For example, for a computer with such a simple system (e.g. a computer with a standard output system, a keyboard, a computer with many input and many output methods, or an operating system), a task may be done on the computer to make changes (such as switching between a program and a task). A task that is not performed on the computer or a task that is not performed on the user is considered to be an action to be performed. In other words, we can say that an action taken on the computer that is performed is an action to be performed, although in practice this is not actually
+
+======================================== SAMPLE 2 ========================================
+
+This paper offers a comprehensive summary of the conceptual development of scientific knowledge, of which creativity is the primary contributor. Creativity evaluation is characterized at a much more holistic scale, by incorporating a number of new approaches and approaches.
+
+This process takes many forms. As presented in the above case study, a simple and concise method using a simple mathematical algebra has been proposed for determining if a musical string is a new musical string using what is known as a nonlinear equation.
+
+Perhaps the most intriguing aspect of this work, it states that when you find an unknown factor which you need to be able to estimate then you need to consider using a similar system.
+
+However, this doesn't mean the system should be designed based on its own, and should be judged in contrast to that available to us by others. The SPECS principle is meant to make the computations of the creative system easier and the computations of the computer more effective. To get to this point, one need to consider whether the system is the best one for some specific purpose or not.
+
+We would argue that a system that helps us to perform our creativity is more creative that the ones that make work in the computer rather than it. To this very point, a computer should, when it can perform its creative, be good for a wide range of the user-facing tasks performed by the system. In this paper, we consider the ability of a system to produce many different types of works (such as melodies, text, and songs) which are produced by the user and then tested. In this paper, we see that the system produces a much more diverse array of results, where an artist can produce an array of compositions (including songs, songs, and so on) that were produced by the user using the system.
+
+As a tool for assessing the potential of creativity and the system we are dealing with, we also highlight some examples in which creative systems have been studied and used for the assessment of their quality. Some examples of creative systems that have been used, at least in my view, are:
+
+Kiran
+
+Lily
+
+Alicia
+
+Lion
+
+Ripley
+
+Lily on the Orient Express
+
+Isobel
+
+Kiran by Alan H. Smeets
+
+This paper also addresses some of the problems presented by creative systems and what is possible from their assessment.
+
+We should also note the work performed by the composer, with a new method for assessing their
+
+================================================================================

@@ -1,0 +1,45 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+To conclude: the authors have identified two specific and useful aspects of creativity which contribute to their understanding of the world. By taking a step beyond the scope of a computer to create or build a new kind of digital creative system, it is possible to recognize how a system might benefit from and contribute to creativity. In an ideal world, these abilities are likely to be useful for the creation of new new kinds of digital digital systems. In an out-of-the-box world where creativity may flourish in an unstructured environment, it is not feasible for this kind of environment to be limited.
+
+Conclusion: Acknowledgments:
+
+I thank the entire creative community for their input and contributions throughout this paper. This was done by the authors as an independent study and their feedback was invaluable.
+
+Please consider volunteering to help out on the site or on Patreon.<|endoftext|>The new season of Dancing With the Stars premieres tonight on ABC. (The network only has ABC as of Tuesday morning, but we will get to that in a bit.) The show returns for the first time in the year-long show-off of The Big Bang Theory — the first time we're actually seeing any of the characters in the original season in their new looks.
+
+This season's cast was only released once during the Season 7 finale of Dancing With the Stars (see the full listing below). The list of cast members isn't exactly impressive, however, as the show has been doing some big work with a cast reunion for some time now. At first, the producers said that the show needed an executive producer — who was presumably not part of the show itself but still worked from a certain point of view on the show — to put everything back together. They wanted a "creative group of people to come together and produce what we wanted, but that's really something you have to find a way to support the show rather than just pull all the strings and make it happen again. We got it in, so we're going to bring it back." (Of course, they've been working on a lot more series now, so we'll see if that work is anything you'd rather see, but we'll let you know if we see them that day.)
+
+This is part of a bigger effort to bring new "curated" series to ABC, including an episode of The Big Bang Theory called The Bachelorette, which is being produced by ABC and produced by The CW and Will Ferrell's FX Network. Check out the original
+
+======================================== SAMPLE 2 ========================================
+
+The work from this paper suggests in the context of our research, that our understanding of creativity cannot be generalizable beyond humans. There is an emerging understanding of creativity in the mind of an animal, a brain, and a language, for example, which are not specifically described as creative. What we see in the scientific literature, however, includes the possibility of a general interpretation, not just a generic interpretation. There is no empirical research that identifies the cognitive system responsible for defining creativity as a specific cognitive ability. In fact, there has been much more research on the neurological properties of creative cognition over the last 40 years and the work of neuroscientists has been very robust.
+
+
+Our main aim here was to determine which of two hypotheses (that the cognitive system is a specific type of cognitive system) can explain the distribution of cognition, and this is one of the most important research questions we were interested in in this discipline. We also made use of our experience as a non-technical journalist to gain experience dealing with different human disciplines, and to present relevant research material to the public, with the hopes of clarifying our position. The book contains many insights in the areas that matter most:
+
+The cognitive system is unique in that it has to provide us with evidence for a specific cognitive ability. We can use the evidence to support our hypothesis that the cognitive system is cognitive. We also can use the evidence to provide the necessary facts for our hypothesis. What does it mean? Does the cognitive system contain the cognitive capabilities that we need to be able to effectively express our own creativity? Does it require that we use different language? Do it need to generate and reproduce the artistic qualities that we expect from each artistic system?
+
+The cognitive system provides us with data to measure our creative abilities in the same manner as we measure our creative abilities on a digital system for which we can learn different data about our creative processes. This approach allows us to have as much of a complete picture of the process of creativity as human individuals, as we really should have.
+
+The cognitive system is unique in that it has to provide us with evidence for a specific cognitive ability. We can use the evidence to support our hypothesis that the cognitive system is cognitive. We also can use the evidence to provide the necessary facts for our hypothesis. What does it mean? Does the cognitive system contain the cognitive capabilities that we need to be able to effectively express their own creative abilities? Does it need to generate and reproduce the artistic qualities that we expect from each artistic system? Do it
+
+================================================================================
