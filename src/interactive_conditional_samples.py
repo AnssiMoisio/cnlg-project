@@ -8,9 +8,10 @@ import tensorflow as tf
 import string
 import model, sample, encoder
 import time
+import aesthetics
 
 def interact_model(
-    model_name='774M',
+    model_name='124M',
     seed=None,
     nsamples=1,
     batch_size=1,
@@ -20,8 +21,8 @@ def interact_model(
     top_p=1,
     # script needs to be run from project root folder (not src)
     models_dir=os.path.join('.','models'), 
-    model_text=os.path.join('.','model_text.txt'),
-    output_dir=os.path.join('.','generated_texts'),
+    model_text=os.path.join('.','model_text_2.txt'),
+    output_dir=os.path.join('.','generated_texts_print'),
 ):
     """
     Interactively run the model
@@ -79,8 +80,9 @@ def interact_model(
 
         context_tokens = enc.encode(raw_text)
         generated = 0
-        texts = "=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n" + "=" * 80 # model text (input text)
-        print(texts)
+        texts_print = "=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n" + "=" * 80 # model text (input text)
+        print(texts_print)
+        texts = []
         for _ in range(nsamples // batch_size):
             out = sess.run(output, feed_dict={
                 context: [context_tokens for _ in range(batch_size)]
@@ -88,16 +90,27 @@ def interact_model(
             for i in range(batch_size):
                 generated += 1
                 text = enc.decode(out[i])
+                texts.append(text)
                 new_text = "=" * 40 + " SAMPLE " + str(generated) + " " + "=" * 40 + "\n" + text + "\n\n"
                 print(new_text)
-                texts += new_text
+                texts_print += new_text
         print("=" * 80)
-        texts += "=" * 80
+        texts_print += "=" * 80
 
         timestr = time.strftime("%Y%m%d-%H%M%S") # time stamp to file name
-        file_name = "output_texts" + timestr + ".txt"
+        file_name = "output_texts_print" + timestr + ".txt"
         with open(os.path.join(output_dir, file_name), "w") as f:
-            f.write(texts)
+            f.write(texts_print)
+
+        
+        # similarity to model text
+        embeds = aesthetics.embed(texts)
+        model_embed = aesthetics.embed(raw_text)
+        sims_to_model = []
+        for vec in embeds:
+            sims_to_model.append(aesthetics.similarity(model_embed, vec))
+
+
 
 if __name__ == '__main__':
     fire.Fire(interact_model)

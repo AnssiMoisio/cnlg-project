@@ -1,6 +1,29 @@
+======================================== Model text ========================================
 Once upon a time there lived an old man in the middle of a vast forest. There was no  people accompanying him but he had found friends in some of the woodland creatures. One day he was on a look for a certain kind of fungus with one of his eldest pals, a raven he had named Pitch after both her feather's color and the recognizable tone of her voice. Pitch had spotted a promising-looking opening with a lot mushrooms from her lofty point of view, and they were now heading towards it, the man calmly walking and Pitch flying from branch to branch above him. 
 Once upon a time there lived an old man in the middle of a vast forest. There was no  people accompanying him but he had found friends in some of the woodland creatures. One day he was on a look for a certain kind of fungus with one of his eldest pals, a raven he had named Pitch after both her feather's color and the recognizable tone of her voice. Pitch had spotted a promising-looking opening with a lot mushrooms from her lofty point of view, and they were now heading towards it, the man calmly walking and Pitch flying from branch to branch above him. 
 Once upon a time there lived an old man in the middle of a vast forest. There was no  people accompanying him but he had found friends in some of the woodland creatures. One day he was on a look for a certain kind of fungus with one of his eldest pals, a raven he had named Pitch after both her feather's color and the recognizable tone of her voice. Pitch had spotted a promising-looking opening with a lot mushrooms from her lofty point of view, and they were now heading towards it, the man calmly walking and Pitch flying from branch to branch above him. 
 Once upon a time there lived an old man in the middle of a vast forest. There was no  people accompanying him but he had found friends in some of the woodland creatures. One day he was on a look for a certain kind of fungus with one of his eldest pals, a raven he had named Pitch after both her feather's color and the recognizable tone of her voice. Pitch had spotted a promising-looking opening with a lot mushrooms from her lofty point of view, and they were now heading towards it, the man calmly walking and Pitch flying from branch to branch above him.  
 Once upon a time there lived an old man in the middle of a vast forest. There was no  people accompanying him but he had found friends in some of the woodland creatures. One day he was on a look for a certain kind of fungus with one of his eldest pals, a raven he had named Pitch after both her feather's color and the recognizable tone of her voice. Pitch had spotted a promising-looking opening with a lot mushrooms from her lofty point of view, and they were now heading towards it, the man calmly walking and Pitch flying from branch to branch above him.  
 Once upon a time there lived an old man in the middle of a vast forest.
+======================================================================================================================== SAMPLE 1 ========================================
+ There was no  people accompanying him but he had found friends in some of the woodland creatures. One day he was on a look for a certain kind of fungus with one of his eldest pals, a raven he had named Pitch after both her feather's color and the recognizable tone of her voice. Pitch had seen a promising-looking opening with a lot mushrooms from her lofty point of view, and they were now heading towards it, the man calmly walking and Pitch flying from branch to branch above him.  
+After a time this old man was back at the town. When the old man arrived he found the city still under construction. 
+Once upon a time this old man was back at the town. When the old man arrived he found the city still under construction.   
+Once upon a time this old man was back at the town. When the old man arrived he found the city still under construction.  
+Once upon a time this old man was back at the town. When the old man arrived he found the city still under construction.  
+ It was a week after the old man's journey from the city to the forest. In the following few weeks he encountered some strange and weird creatures.
+Once upon a time this old man was back at the city. When the old man arrived he found the city still under construction. 
+Once upon a time this old man was back at the city. When the old man arrived he found the city still under construction.  
+Once upon a time this old man was back at the city. When the old man arrived he found the city still under construction.  
+Once upon a time this old man was back at the city. When the old man arrived he found the city still under construction.  
+Once upon a time this old man was back at the city. When the old man arrived he found the city still under construction.  
+Once upon a time this old man was back at the city. When the old man arrived he found the city still under construction.  
+After a long time, he spent the night outside the forest. One day here were sleeping as usual in the tree There wasn't a tree to be sleeping for a tree there's a day In the tree sleeping here's plant For the tree There's tree there's tree There's tree There's tree there's tree there's tree It's tree For tree There's tree There's tree There's tree For tree There's tree<|endoftext|>
+
+
+
+
+It was
+He's tree
+
+================================================================================

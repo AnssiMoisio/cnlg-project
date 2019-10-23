@@ -1,0 +1,46 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+The SPECS methodology is the right approach for computer-based systems that can perform original or even abstract creativity tasks from a broad range of creative processes. However, it would have been preferable to present a clear definition of creative processes and to have more clearly defined the range of creative activities by software. For this reason I believe that SPECS should be expanded to encompass other types of computational creativity in the future.
+
+We conclude with thoughts about some possible directions of future directions.
+
+If anyone was interested, I could write up a summary version or a paper as a poster! (I have it on my computer now.)
+
+Note: If you don't have the computer to compile a paper, this is your last chance so the lecture slides (with their text) are linked above under the slides download link.
+
+Note 2: The slides are still available here.
+
+Note 3: The slides will be made available in a couple of hours!<|endoftext|>A judge on Tuesday ruled that U.S. District Judge Henry Hudson can stop the Trump administration from blocking the government from lifting a travel ban on people from six predominantly Muslim countries.
+
+In a 32-page decision, U.S. District Judge Amy Berman Jackson found that the order President Donald Trump signed in March can be taken at face value.
+
+"The District Court properly concluded that the Executive Order does not lack specific statutory or constitutional authorization, and thus the Executive Order does not violate the Establishment Clause," the decision states. "The Executive Order does not abridge any constitutional right without due process. Accordingly, the Executive Order is not in violation of the Establishment Clause."
+
+The Justice Department said it was reviewing the decision and expected it would be appealed.
+
+Immigrant advocates hailed the ruling on Twitter.
+
+BREAKING! Judge rules against Trump's ban of all refugees. @POTUS's ban on travelers, from 6 Muslim countries, "overriders" not permitted — Lisa Esparza (@LISAESPARZA) September 12, 2017
+
+The U.S. has a long record of protecting people from oppressive regimes in the Middle East & this ban is an unjustified violation of the rights of people around the globe. — Rachael Bade (@rachaelbbade) September 12, 2017
+
+The ruling also puts some of the more popular elements of the new president's agenda on firm legal ground for the time being. Trump on Tuesday vowed to roll back federal regulations affecting air travel, including an executive order
+
+================================================================================

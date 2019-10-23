@@ -1,0 +1,39 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+The paper proposes a standardized procedure for evaluating computational creativity systems based on the statement that any system producing a novel artistic product that can be used by others has that functionality. The SPECS approach does not involve a set of tests, because any system produced with the SPECS approach would have some of those tests, just without those tests. We suggest it is better to take the SPECS approach in one of four specific areas: music, literature, art, and code.
+
+Somewhat surprisingly, I was not immediately taken in by the idea of defining artistic function in terms of artistic creativity. In fact, it was initially difficult for me to grasp. However, I have become comfortable recognizing artistic function in the context of creative systems that I have observed in my research. The SPECS approach is a way of seeing the function of artistic systems in artistic contexts using the SPECS framework as part of a larger vision of artistic function.
+
+
+Read more about my research, and why I thought this paper needed to be published.<|endoftext|>If you're new to the concept of a "Penny List," "Penny-Pinching" or "Penny-Pinching Your Employees" project, you should know that each of these labels is a variation of one another.
+
+In this case… I'm going to be using "penny list" as a pejorative and "penny-pinching" can also be a pejorative.
+
+Penny List
+
+The Penny List is an adage used to describe those who are "foolishly, excessively, and unprincipled" in the management of money. The Penny List is about greed and money and about the type of management practices we've seen lately, which may be described as penny-pinching.
+
+Penny Pinching / Spending Too Little on Employee Expenses
+
+In my past few blogs, I've talked about "How Money Helps and Hurts You" and I use the word "penny-pinching" to describe how we overspending by underspending and underspending.
+
+A pejorative to be sure, but I'm not going to use such a term in this blog. The word is a pejorative; I'm using it as an adjective. We cannot control when a job or a job-related expense happens. There are three things we do at work that affect money: we pay our bills, we make decisions with money and we
+
+================================================================================
