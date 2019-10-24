@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import fire
 import json
 import os
@@ -41,11 +40,10 @@ def select_best_learning_diary(aesthetic_values):
 
     return np.argmax(linear_combination)
 
-
 def interact_model(
     model_name='774M',
     seed=None,
-    nsamples=5,
+    nsamples=6,
     batch_size=1,
     length=None,
     temperature=1,
@@ -115,7 +113,7 @@ def interact_model(
 
         context_tokens = enc.encode(raw_text)
         generated = 0
-        texts_print = "=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n" + "=" * 80 # model text (input text)
+        texts_print = "=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n" + "=" * 80 # input text
         print(texts_print)
         texts = []
         for _ in range(nsamples // batch_size):
@@ -154,10 +152,6 @@ def interact_model(
         sims_to_ld = []
         for vec in text_embeddings:
             sims_to_ld.append(similarity(vec, ld_embed[0]))
-
-        # print(sims_to_model)
-        # print(sims_to_ld)
-        # print(similarity(model_embed[0], ld_embed))
 
         aesthetic_values = [sims_to_model, sims_to_ld]
         print("The best diary is sample number", 1+select_best_learning_diary(aesthetic_values))
