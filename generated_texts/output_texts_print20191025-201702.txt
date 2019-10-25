@@ -1,0 +1,61 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+I'm not sure how this was related to the lecture, which was more about understanding some existing ideas that have been made available by the literature. I found the discussion of these ideas interesting, but I think their general applicability is hard to identify because they have not yet been evaluated, and in my opinion there is no consensus on what it means for a computational system to be creative. I feel like there should be, and there are studies which suggest that if one believes in its computational potential, then we would be hard pressed to know whether or not it can be evaluated at all.
+
+The next two weeks I'm going to be spending about 80% of my time developing a simple machine learning model which learns to generate compositions from samples that are not actually known or modeled (using Python). The goal of my research is to prove that the human mind is not uniquely suited for music production, and that there could be computational models for music which is in fact the product of an algorithmic and/or musical process.<|endoftext|>The next big thing in computing, from the computer revolution for the poor to an artificial intelligence revolution, is going to be here before you know it. At least that's what Microsoft CEO Satya Nadella told us on Friday.
+
+Speaking at the GDC event, when asked about progress on the artificial intelligence side of Microsoft, Nadella said he expected the next big technological shift to be the next generation of big data—a collection of data that will "tell us everything, about all the companies, about all the products, about all the people."
+
+That's great news for companies, Nadella argues, so he is "absolutely" worried about what comes next because there is "no way that data can be separated."
+
+"Data will be everything," he said. "It will be a big pile of data that gives a complete picture of who you are because it contains your emails, your social media posts, your text messages, your mobile data—everything."
+
+This is where the Microsoft "Big Brain" program comes into play, he said, using its software and data analytics services. "We are going to need big data, big compute."
+
+With that comes the question of whether Microsoft can bring up such tech in time to compete directly with Google, Amazon, Amazon Web Services and, of course, IBM.
+
+We'll have to wait and see.
+
+This story, "What are we going to do when our big new computer program comes out?"
+
+======================================== SAMPLE 2 ========================================
+
+One of the strengths that human creativity has is the ability to develop and refine concepts. As one of the earliest philosophers to propose the notion of a creative process (the Cynic philosopher Plato writes about a "creature that can do an infinite variety of things for itself") it is quite natural that the concepts of creativity should become a defining characteristic of modern creativity. There is an element of the philosophical idea of an "unbound" creative power within a computational system, that allows it to be productive of ideas when given sufficient instruction.
+
+
+Week 3:
+
+We review some of the important theoretical developments with regard to computational creativity. To begin with, there has been some interest in how different algorithmic theories of creativity can be used to quantify creativity. We discuss how various research questions are addressed by these developments. We also note how a general understanding of how computationally determined creativity can arise in a computational system is emerging. It is also noteworthy that there is a greater attention being paid to the importance of the computational element in creativity.<|endoftext|>The new government's response to a recent flood has been criticised by scientists.
+
+Last week, floods devastated the area around the UK's biggest hydroelectric facility to date.
+
+While there is hope that the damage has been repaired, experts are worried that the new approach to managing flooding – which will see the country's electricity network be expanded over the coming years – could lead to more severe flooding.
+
+In a new report entitled 'Putting the Floods Back in the System: Managing Natural Hazards After the Drought', Dr Chris Field and Dr Sarah Pidgeon, both of the Environment, Food and Rural Affairs (EFRA) Department, say the government's new approach to floods is 'irresponsible' and could exacerbate the problem.
+
+Dr Field said that the new policy is 'not a strategy, it's a policy'. The problem is the system is a 'huge overreach', he added.
+
+"I'm very concerned that the government hasn't even looked at the impact of its approach. The water level in my field is about the same now, so I'm worried that there's going to be a lot more flooding in future," he told The Times.
+
+He believes that the problem is going to get worse, saying: "I think we're going to see more and more flooding in the future as the population gets older and more water is diverted from floodplain management. The problem can only exacerbate because the system isn't properly managed."
+
+The report
+
+================================================================================

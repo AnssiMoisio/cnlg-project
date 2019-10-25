@@ -10,6 +10,9 @@ import time
 import tensorflow_hub as hub
 module_url = "https://tfhub.dev/google/universal-sentence-encoder/2" #@param ["https://tfhub.dev/google/universal-sentence-encoder/2", "https://tfhub.dev/google/universal-sentence-encoder-large/3"]
 
+# ld_file = os.path.join('.','learning_diary.txt')
+# abstract_file = os.path.join('.','abstract.txt')
+
 graph = tf.Graph()
 
 def create_embed(texts):
@@ -23,11 +26,13 @@ def create_embed(texts):
 
     return text_embeddings
 
+
 def similarity(v1, v2):
     """
     similarity between two vector embeddings
     """
     return np.inner(v1, v2)
+
 
 def select_best_learning_diary(aesthetic_values):
     """
@@ -40,10 +45,11 @@ def select_best_learning_diary(aesthetic_values):
 
     return np.argmax(linear_combination)
 
+
 def interact_model(
     model_name='774M',
     seed=None,
-    nsamples=6,
+    nsamples=2,
     batch_size=1,
     length=None,
     temperature=1,
@@ -110,7 +116,7 @@ def interact_model(
         saver = tf.train.Saver()
         ckpt = tf.train.latest_checkpoint(os.path.join(models_dir, model_name))
         saver.restore(sess, ckpt)
-
+        
         context_tokens = enc.encode(raw_text)
         generated = 0
         texts_print = "=" * 40 + " Model text " + "=" * 40 + "\n" + raw_text + "\n" + "=" * 80 # input text
@@ -140,15 +146,16 @@ def interact_model(
         text_embeddings = create_embed(texts)
         model_embed = create_embed([raw_text])
 
-        # similarity to model text
+        # similarity to model text (first aesthetic)
         sims_to_model = []
         for vec in text_embeddings:
             sims_to_model.append(similarity(model_embed[0], vec))
-
-        # similarity to a learning diary example
+        
+        # similarity to a learning diary example (second aesthetic)
         with open(learning_diary_file, "r") as f:
             learning_diary_words = f.read()
         ld_embed = create_embed([learning_diary_words])
+        
         sims_to_ld = []
         for vec in text_embeddings:
             sims_to_ld.append(similarity(vec, ld_embed[0]))
@@ -157,6 +164,17 @@ def interact_model(
         print("The best diary is sample number", 1+select_best_learning_diary(aesthetic_values))
         print("Aesthetic values:\n", aesthetic_values)
 
+        ## Reference similarity values
+        # with open(ld_file, "r") as f:
+        #     ld = f.read()
+        # v = create_embed([ld])
+        # with open(abstract_file, "r") as f:
+        #     a = f.read()
+        # a_embed = create_embed([a])
+        # sim_to_ld = similarity(v, ld_embed) 
+        # sim_to_a = similarity(v, a_embed)
+        # print("Reference similarity values: ", sim_to_ld, sim_to_a)
+        
 
 if __name__ == '__main__':
     fire.Fire(interact_model)

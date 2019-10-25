@@ -1,0 +1,64 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+The SPECS approach is novel and is designed to help the evaluation of creative computers. It is the result of extensive discussions with computational linguists, philosophers, and linguists. The paper describes many of the problems that face both a computer and its creative implementers; yet it addresses these problems in a comprehensive way.
+
+Advertisements<|endoftext|>A new study published today in Cell, reveals that stem cells can develop into adult stem cells, and that the process may have a major impact in treating diseases such as Parkinson's disease, Alzheimer's disease, and type 2 diabetes mellitus. This discovery could also help researchers to generate embryonic stem cells to treat the human body's growing population of incurable human genetic diseases.
+
+According to Prof. L.S. Rhee, the study's leader, "There are a lot of potential uses for stem cells. For example, we could produce stem cells which can then be used for stem cell transplants. We can potentially also make stem cells that would be used for treating cancer."
+
+These adult stem cells can be harvested from bone marrow and can be used to treat diseases such as Parkinson's or Alzheimer's, while the mature ones are also useful in treating diabetes, heart disease, and some types of cancer.
+
+Dr. Robert T. Young, also co-lead author, also comments, "This finding may lead to new research into ways to generate stem cells in the lab, using a technique called induced pluripotent stem cells"
+
+It is already known that adult stem cells can form either mesenchymal stem cells, or primary mesenchymal stem cells. However, this study shows that adult stem cells can develop into mature mesenchymal stem cells or mature primary mesenchymal stem cells, and therefore develop into adult stem cells. Previously, scientists had thought that primary mesenchymal stem cells only developed into adult mesenchymal stem cells.
+
+"Adult mesenchymal stem cells (MSCs) are often mistaken as being different from embryonic stem cells (ESCs), which has been shown to be incorrect in a number of papers. However, the researchers showed that these new cells can develop very successfully to become mature mature ESCs," concludes Dr. Young.
+
+About the Study
+
+The team began experiments on mesenchymal stem cells in early 2015. During the study, the researchers used mice engineered to create induced pluripotent stem cells. The researchers cultured the cells for three months and then harvested them with either chemotherapy,
+
+======================================== SAMPLE 2 ========================================
+
+The standardization of the SPECS has already been initiated in the United Kingdom and is now being used throughout Europe. It is a very promising initiative that has the potential to change both current and future research in the field of computational creativity and to bring greater understanding of the creativity process itself.
+
+Discussion and recommendations
+
+1. Do we know whether a given system is really creative? The SPECS process is designed to be as broad as possible, since it does not have criteria for determining whether it is creative. Instead, SPECS seeks to identify any system that has some degree of creativity. When determining whether a system is creative, we find it useful to look at some criteria we might want to consider:
+
+Are there specific characteristics/applications of the technology?
+
+How is the system working? Do people and computers operate in the same space? Are the different kinds of system working simultaneously?
+
+What is the goal of the system? Is there an internal hierarchy of goals within the system? Are all the goals in the same way? Is some goals more productive than others? Which goals have a high probability of generating output and are the most productive?
+
+Where is the output produced by this system? Have the different goals of this system been achieved? Does it have a clear set of goals? What do the outputs look like?
+
+2. Would the SPECS process, applied in a quantitative manner, be more useful than the method currently being used for estimating the creativity of creative programs?
+
+A quantitative approach based on the same approach as developed for computer analysis is more useful for answering these questions. In this sense, we would like to discuss whether, after applying the same method, we can develop a way in which we could arrive at a better estimation of the creativity of creative programs.
+
+3. Would the SPECS process be more useful than the method currently being used for determining the creativity of creative programs?
+
+We consider one approach from a computational perspective which is based on formal methods which evaluate the creativity of creative systems, whereas the SPECS process applies a more traditional approach of identifying a system that is creative or not. This means that we are also considering the idea that even if we develop a method that uses our approach for judging program creativity, when it comes to the evaluation of this method, that method would still be more effective than what currently is being used in the evaluation of programs. This is the argument. (More details here)
+
+4. Do we need separate methods of
+
+================================================================================

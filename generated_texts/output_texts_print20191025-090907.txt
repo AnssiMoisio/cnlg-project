@@ -1,0 +1,59 @@
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation. 
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+======================================================================================================================== SAMPLE 1 ========================================
+
+The SPECS methodology provides a more thorough definition of what a creative system should be designed to do, with a set of statements that provides a way of measuring whether a system is self-sustaining. It is also clear that not all creative systems are self-sustaining. For example, many artistic systems, whether they are music and songwriting, games and chess, or language and poetry, do not survive over time.
+
+
+Week 3:
+
+In this final week of our three-week workshop we develop and test an automated approach for evaluating computational creative systems. Though it will not be used for practical programming, it will serve as a framework for evaluating systems that are primarily engaged in the generation of artifacts. The purpose of our framework is to provide a rigorous methodology for estimating how well an autonomous creativity machine (ABC) responds to the different creative outputs produced by ABC's predecessors. The framework's design is based around a system-level description of ABC's outputs and performance characteristics that we provide an annotated specification for. This information is then used to construct a more robust design for an evolving evaluation system.
+
+
+My interest in this work was sparked in a recent conversation with Jonathan Zittrain (University of California, Berkeley), which led to this paper. Jonathan was talking about another creative machine, one that produces music, poetry, and music plays (or choreographies that include music). I was struck that these systems are capable of producing great works, and he asked me what it would take to get that to happen. After getting the right answer - that it has to be based on a combination of creativity and a sense of aesthetic appreciation - he asked me to write this up.
+
+The idea behind my paper is to demonstrate that the kinds of creative output we know about can also be measured. It is important to mention that all of the systems we are discussing here are based on creative software systems and so are not necessarily the most artistic systems. However, the software that the work we are discussing represents a very unique case of what is known as an artistic system. We present this work as an attempt to fill a void of an existing analysis of the characteristics of artistic system, and to show that it can be made to work, so to speak, as a computational aesthetic system as well.
+
+
+The analysis outlined in my paper is presented to be applicable to any situation when one is evaluating an artistic system, including the evaluation of computers and hardware. My paper also presents a general framework for assessing an artistic system by using an
+
+======================================== SAMPLE 2 ========================================
+
+I want to start by sharing the excitement I felt after this first lecture; my colleagues and I were eager to use it on other projects and I think it will be very useful in teaching classes. The SPECS approach has an advantage, which was apparent from my class presentations; I can now explain what I mean when I am writing about creativity to students. My enthusiasm was also a factor for my colleagues, who are quite creative, and gave this course great satisfaction because they appreciated that learning was a creative process. Although one can have no conception of what the SPECS process would look like, I can see how it would be a useful tool for teaching.
+
+Week 3:
+
+I'll summarize what we learned during this lecture by starting with the main topics the course covers.
+
+1. Why do creative systems usually have so many features? Because there are often many different reasons for why a particular feature or set of features arises in creative systems.
+
+2. How can computational systems be assessed for creativity? When asked about their creativity criteria, many researchers suggest tests like those devised by Cresman and colleagues in the past; this process is not clear when we talk about creative systems because it's hard to determine what it is that is meant by creativity (and not just appreciation).
+
+3. Do we need to define the concept of creativity differently for computational and human creative systems? There is a tendency to say that computation is not creative because all human creativity involves computer programs and hence the concept or concept of creativity is not relevant.
+
+4. How do we evaluate computational and human creative systems? In this last section we will look at the current practices with which the term creativity is used today, and try to understand the ways in which they can be improved. How can an evaluation of the effectiveness of creative technology be done within the conceptual framework of creativity?
+
+5. What do we say about the creative process during evolution? I suspect that most people are not aware of both the processes that cause creative systems to arise and the evolution of those systems.
+
+6. Can we get a better understanding of the different aspects of creativity? The present study provides an experimental framework for evaluating the creative processes which we have in mind.
+
+Week 4:
+
+I am thinking of making this the last lecture, since I do not know yet the way in which the discussion in the lecture will lead to research. Since there is an increasing focus on the process of creativity for computer science students, I hope I can provide a
+
+================================================================================

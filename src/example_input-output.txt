@@ -1,0 +1,165 @@
+###########
+Example input:
+###########
+======================================== Model text ========================================
+Week 1:
+We add to the discussion of how to assess the creativity of programs which generate artefacts such as poems, theorems, paintings, melodies, etc. To do so, we first review some existing frameworks for assessing artefact generation programs. Then, drawing on our experience of building both a mathematical discovery system and an automated painter, we argue that it is not appropriate to base the assessment of a system on its output alone, and that the way it produces artefacts also needs to be taken into account. We suggest a simple framework within which the behavior of a program can be categorized and described which may add to the perception of creativity in the system.
+
+Thoughts after the lecture:
+
+On this lecture we discussed the creative tripod that is comprised of three requirements of creativity and three parties that can have these properties: appreciation, skill, imagination; programmer, computer, consumer.
+In my initial definition of creativity, by purposefulness I meant somewhat similar properties that in the tripod are called appreciation.
+The tripod is more human-centric and narrower than my own definition. Evolution of species by natural selection does not comfortably qualify as creative by the standards of the tripod, but to me it seems the most self-evidently creative process, because it has created the most complex and meaningful products we know of.
+
+
+
+Week 2:
+Abstract Computational creativity is a flourishing research area, with a variety of creative systems being produced and developed. Creativity evaluation has not kept pace with system development with an evident lack of systematic evaluation of the creativity of these systems in the literature. This is partially due to difficulties in defining what it means for a computer to be creative; indeed, there is no consensus on this for human creativity, let alone its computational equivalent. This paper proposes a Standardized Procedure for Evaluating Creative Systems (SPECS). SPECS is a three-step process: stating what it means for a particular computational system to be creative, deriving and performing tests based on these statements. To assist this process, the paper offers a collection of key components of creativity, identified empirically from discussions of human and computational creativity. Using this approach, the SPECS methodology is demonstrated through a comparative case study evaluating computational creativity systems that improvise music.
+
+Thoughts after the lecture:
+
+================================================================================
+
+############
+Example output:
+############
+======================================== SAMPLE 1 ========================================
+
+A collection of key components of creativity, identified empirically from discussions of human and computational creativity, might be a good basis for developing a criterion for computer creativity. To explore this, I recommend to examine the results of a paper by Déjà vu, which compares a creative artist like William Blake to a computer:
+
+http://www.npr.org/templates/story/story.php?storyId=48795820 http://www.cbsnews.com/stories/2016/10/24/news/programmers-think-computers-could-write-new-artistry-but-programmers-don't-think-they-can. cbsnews.com/stories/2016/10/24/news/programmers-think-computers-could-write-new-artistry-but-programmers-don't-think-they-can http://wirescience.com/2015/07/16/creative-programmers-are-not-thinking/ http://www.cnsnews.com/news/article/detail/2014/02/12/creative-programmers-may-be-sigh-of-deja-vu-with-high-confidence
+
+This paper seems to point to the need for a new definition of creativity. The first component that follows could be described as intuition and inspiration, however I do not fully agree with this characterization of this process.
+
+Creativity is not based on creativity of the computer, that might have evolved from inspiration and intuition to be the original inspiration and intuition, but on creativity of the individual computer, that might have evolved from simple ideas to complex systems like music.
+
+There are two possible paths through which a creative computer could find its inspiration and inspiration.
+
+i) Computers that do not care about the technical details of creating a piece of music (i.e. the musical theory, the theory of notation and the musical style, etc, does not matter much for making music in the modern world)
+
+ii) Computers that take care about these technical details, the theoretical aspects of creating a piece of music (i.e. some of the concepts of music theory, etc)
+
+The computer that chooses a one might be something like a programmer, which can be a computer designed by the programmer, a person who programmed the computer's first music program.
+
+This paper recommends the following steps that the computer
+
+
+======================================== SAMPLE 2 ========================================
+
+The SPECS paper is an elegant, practical, and rigorous set of criteria for evaluating computational creativity: it demonstrates how SPECS can be applied from a qualitative understanding of this concept, along with a theoretical background. It presents well-reasoned and well-specified criteria to support a quantitative evaluation of a computational creativity system. This paper demonstrates that this methodology and a new evaluation methodology can co-exist without compromising each other.
+
+Week 3:
+
+In this week we discuss the role of emotion, memory and learning in processing the abstract and the concrete in a variety of contexts. As we have seen, the most significant aspects of abstract and concrete information processing are both shaped by the individual experiences of the subject. The paper begins by discussing the emotional context of this process, how it is changed by the particular emotion, and how the emotional state is modified by the specific context. We define three dimensions of the overall emotion-context relationship that may influence processing of abstract and concrete information and that have some relevance to the study of the nature of creativity. We then discuss how emotion impacts the processing of abstract and concrete information and show that this process can be altered when a particular emotion is present. This leads to the development of a definition of emotion for an abstract or concrete information processing system.
+
+Finally, we consider the role of memory and the nature of memory for the emotional context of computational creativity. We identify a few key functions for memory that are particularly effective, and demonstrate how these functions can be modified when memory is disturbed. The paper concludes by describing a computational model of memory which is particularly useful for characterizing and modeling computational creativity systems.
+
+Week 4:
+
+This week's topic is the relationship between emotion, memory and learning. It begins, of course, by discussing the individual context and emotion of different learning contexts: learning to use language, learning to play a musical instrument, learning to play an abstract art form such as dance or architecture.
+
+One of the key things we learn from these different learning contexts is that their processing is fundamentally different, and that the processing of concrete information often relies on processing of abstract information. At first glance, this may seem counter-intuitive at first, but it is the opposite of what we have seen and that we want to understand. This is particularly true when dealing with the learning of abstract information processing.
+
+
+Thoughts before and after the lecture:
+
+This paper is an attempt at writing about "the complex", especially when one does not know the person involved, but has some
+
+
+======================================== SAMPLE 3 ========================================
+
+By this stage of the presentation people probably had heard of COMP and the SPECS literature, and perhaps already made the connection to the term 'creative'. The paper, as expected, deals with the topic of computational creativity systems, but is not aimed at presenting a solution to it. It is a proposal to develop an empirical-based method for evaluation of these systems for the purposes of establishing and maintaining our notions of human creativity and of computational creativity. To help address this challenge and to bring more clarity and precision to this concept, SPECS was developed. That is, SPECS is the method by which we evaluate creative systems. SPECS can be seen as two parts. The first part involves the statement: a system must be creative to be valuable, or more generally: it must be something other than a conventional computer program that is simply an input of some input. The second part consists of using the SPECS toolset and tests to test whether a specific system satisfies one or more of these criteria. The SPECS toolset includes the three tools above: the standard criterion, performance evaluation, and identification. SPECS provides two alternative tests: identification and performance evaluation, which are presented in more detail in a separate paper, Creative Creatives. The performance evaluation test is designed to determine the probability a particular system will achieve those four outcomes. The identification test is designed to determine whether a program satisfies certain conditions on these criteria. The identification test is designed to identify whether a program satisfies some predefined set of criteria which the tool suite is trained to meet.
+
+With this brief discussion out of the way, we move on to the second half of the week.
+
+Discussion:
+
+The third and final part of this week is dedicated entirely to discussing practical uses of the SPECS toolset. To that end, the paper, Creative Creatives, is also submitted for discussion and consideration. As with the rest of the SPECS paper, we intend for this to be a peer-reviewed article with discussion, as well as the opportunity for constructive criticism. As with any other paper, discussions will occur, and if people find things that have changed it will be changed for the better, and if people disagree it will be altered for the worse. This makes the outcome of this paper extremely significant.
+
+Discussion:
+
+The SPECS paper describes three criteria which we define as Creative-Generating: (1) to be creative to produce something new; (2) to be creative in the sense that they are not simply using computer functions
+
+
+======================================== SAMPLE 4 ========================================
+
+Although I will not rehash many of the points made in the lecture, I thought it was important to make it clear how the SPECS approach works.
+
+The key components of creativity, I noted, are appreciation, skill, imagination.
+
+
+In addition, there are two key concepts that I am going to elaborate: creative software design, and computational creativity. I find these concepts to be related, but are far from complete formulations of their meaning. It is clear that these areas need more work.
+
+
+These principles can be used to illustrate a number of approaches to designing and creating software that uses the techniques of creative systems analysis. In the next section I present those, including an example of what I consider an optimal design for a computer game that has been designed using these principles (using code from The Art of the Computational Game, by Roberta Williams).
+
+
+After discussing my own work, the topics I am currently working on include:
+
+Cognitive psychology of creative behaviors.
+
+Designing systems that exhibit creativity.
+
+The role of computational creativity in computer science.
+
+Intelligible, non-conceptual, creative systems: the creative systems approach.
+
+Creative systems research: in the US and abroad.
+
+I hope this post will be useful.<|endoftext|>I was wondering about this so I put them in a big, well padded and padded case for easy transport/handling!
+
+You should get two or three or four of these.
+
+I put them in a big, well padded and padded case for easy transport/handling!
+
+You should get two or three or four of these.
+
+
+I love these! You can't tell they are plastic, so I love that!
+
+
+These are great and I have three as well.
+
+These are great and I have three as well.
+
+I like to wear them both in winter as I can wear a top with them and I can still get to my hair!
+
+I like to wear them both in winter as I can wear a top with them and I can still get to my hair!
+
+All in all, these are a great product!
+
+All in all, these are a great product!
+
+
+What a great way to keep my hair longer and more manageable while at work.
+
+What a great way to keep my hair longer and more manageable while at work.
+
+I like to wear them both winter and during the summer and can even wear them
+
+
+======================================== SAMPLE 5 ========================================
+
+Thoughts after the lecture:
+
+The use cases used in this paper are as follows: First, we note that the same approach applies to music creation, and specifically how to evaluate artistic creativity. This is shown by performing the same kind of computations as described in the previous section. Second, we note that the same approach can be applied to artificial intelligence, and specifically how to evaluate AI creativity. This is shown by creating the same kind of computations as the previous section. Third, we note that the same approach can be used to describe algorithmic creativity, and specifically how to evaluate computational creativity systems that generate algorithms. This is shown by running the same kind of computations as described in the previous section. Fourth, we draw a line between artistic systems and algorithmic systems such that the distinction does not exist; in fact, such systems can be thought of as being at the top of the food chain in the creative system stack. Next page - What is a Synthetic Creativity Program (SACP)?<|endoftext|>We all know that Google is the gold standard of SEO. As a large player in these fields it makes you wonder, how do they do it? It's simple, they use the following strategies (more or less) that work as outlined in this detailed post:
+
+They build a long tail keyword list. By focusing on a few keywords from a specific industry they create a list of unique customers who have a high conversion rate. These are the customers who will convert. They use keywords from the Google Keyword Tool for their Google-approved keywords. They take this a step further by adding them to their existing keywords.
+
+But even if you know all of these tricks, here are some more to really amp up your searches.
+
+Searches are not always accurate, so it is important to pay attention to how Google handles your site when you make new searches. If an item is mentioned only once, then it won't show up in searches. However when an item gets mentioned more than once then it will show up in search results.
+
+Search engine indexers can have a huge impact on whether your website shows up in the search results. When you set your site to display the same ranking or lower than your competitors you are basically making your site more vulnerable to malicious manipulation.
+
+To get the most out of your SEO efforts you must take an honest position and understand that the best way of improving your SEO efforts is to be proactive.
+
+If you want to create the best website possible then
+
+
+================================================================================
+
+The best diary is sample number 2
+
+Aesthetic values:
+ [[0.7711177, 0.75232553, 0.8002566, 0.6846492, 0.51243013], [0.5611509, 0.6482767, 0.51101625, 0.49351707, 0.32755816]]
